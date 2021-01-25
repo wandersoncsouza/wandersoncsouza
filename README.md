@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanderneguinho)](https://twitter.com/wanderneguinho)
 
 ### About me
-Apaixonado por tecnologia, com conhecimentos básicos em sistemas operacionais e servidores windows e linux, experiências práticas em redes estruturadas, eletrônica e elétrica, estudante de Sistemas de Informação com conhecimento nas tecnologias de desenvolvimento web; HTML, CSS, JavaScript, JQuery, PHP, React, VueJS, Angular, MySQL, MongoDB, Docker, Java WEB, AWS e Azure, admirador de Devops, musicista (baixista), experiência em rotinas e processos administrativos.
+Apaixonado por tecnologia, com conhecimentos básicos em sistemas operacionais e servidores windows e linux, experiências práticas em redes estruturadas, eletrônica e elétrica, estudante de Sistemas de Informação com conhecimento nas tecnologias de desenvolvimento web; HTML, CSS, JavaScript, JQuery, PHP, React, VueJS, Angular, MySQL, MongoDB, Docker, Java WEB, AWS e Azure, admirador de Devops, musicista (baixista) e experiência em rotinas e processos administrativos.
 
 - [Courses] <br>
    (https://www.devmedia.com.br/perfil/wanderson-105) 👨🏼‍🏫 - Cursos de desenvolvimento web (Front e Back-End) - Em andamento <br>
