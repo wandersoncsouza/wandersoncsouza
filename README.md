@@ -26,8 +26,9 @@ Apaixonado por tecnologia, com conhecimentos em servidores windows e linux, prá
 
 - [Courses] <br>
     Estácio de Sá - Sistemas de Informação - 2º Semestre.<br>
-   <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="30px" heigth="30px">
-   (https://www.jdevtreinamento.com.br/formacao-java-web-profissional/index.html) - Curso de Java WEB Full Stack
+   <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="15px" heigth="15px">
+   (https://www.jdevtreinamento.com.br/formacao-java-web-profissional/index.html) - Curso de Java WEB Full Stack<br>
+   <img src="http://www.w3.org/2000/svg" width="15px" heigth="15px">
    (https://www.devmedia.com.br/perfil/wanderson-105) 👨🏼‍🏫 - Cursos de desenvolvimento web (Front e Back-End) - Em andamento <br>
    (https://www.udemy.com/certificate/UC-4dbe736f-7653-441e-933c-0da2b421627f/) 👨🏼‍🏫 - Curso de desenvolvimento de sites e sistemas web do zero utilizando HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, POO e MySQL
 
