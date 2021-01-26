@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanderneguinho)](https://twitter.com/wanderneguinho)
 
 ### Sobre mim;
-    Apaixonado por tecnologia, com conhecimentos em servidores windows e linux, práticas em redes e cabeamento estruturado, eletrônica e elétrica, estudante de Sistemas de Informação, eterno aprendiz de TI, desenvolvedor júnior, amante de devops e música, musicista (baixista), experiência em rotinas e processos administrativos.
+   Apaixonado por tecnologia, com conhecimentos em servidores windows e linux, práticas em redes e cabeamento estruturado, eletrônica e elétrica, estudante de Sistemas de Informação, eterno aprendiz de TI, desenvolvedor júnior, amante de devops e música, musicista (baixista), experiência em rotinas e processos administrativos.
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
