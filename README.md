@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 Apaixonado por tecnologia, com conhecimentos em servidores windows e linux, práticas em redes e cabeamento estruturado, eletrônica e elétrica, estudante de Sistemas de Informação, eterno aprendiz de TI, desenvolvedor júnior nas tecnologias web; HTML, CSS, JavaScript, JQuery, PHP, React, VueJS, Angular, MySQL, MongoDB, Docker, Java WEB, AWS e Azure, amante de devops e música, musicista (baixista), experiência em rotinas e processos administrativos.
 
 - [Courses] <br>
+    Estácio de Sá - Sistemas de Informação - 2º Semestre.<br>
+   <img src="https://img2.gratispng.com/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766ab2d98b8.1809687115335031471868.jpg" width="30px" heigth="30px">
+   (https://www.jdevtreinamento.com.br/formacao-java-web-profissional/index.html) - Curso de Java WEB Full Stack
    (https://www.devmedia.com.br/perfil/wanderson-105) 👨🏼‍🏫 - Cursos de desenvolvimento web (Front e Back-End) - Em andamento <br>
    (https://www.udemy.com/certificate/UC-4dbe736f-7653-441e-933c-0da2b421627f/) 👨🏼‍🏫 - Curso de desenvolvimento de sites e sistemas web do zero utilizando HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, POO e MySQL
 
