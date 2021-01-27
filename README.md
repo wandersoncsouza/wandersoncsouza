@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![AzureCloud](https://img.shields.io/badge/-AzureCloud-05122A?style=flat&logo=azure-cloud)&nbsp;
 
 - [Cursos] <br>
     <img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/estacio.png" width="15px" heigth="15px">
