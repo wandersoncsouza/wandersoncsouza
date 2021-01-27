@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wandersoncsouza)](https://github.com/wandersoncsouza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanderson-costa-souza-8a9a8868/)](https://www.linkedin.com/in/wanderson-costa-souza-8a9a8868/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/wanderson-costa-souza-8a9a8868/)](https://twitter.com/wanderneguinho)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=hotmail&logoColor=white)]
 
 ### Sobre mim;
    Apaixonado por tecnologia, com conhecimentos em servidores windows e linux, práticas em redes e cabeamento estruturado, eletrônica e elétrica, estudante de Sistemas de Informação, eterno aprendiz de TI, desenvolvedor júnior, amante de devops e música, musicista (baixista), experiência em rotinas e processos administrativos.
@@ -53,7 +52,7 @@ Here are some ideas to get you started:
    <img src="https://arquivo.devmedia.com.br/marketing/img/logo-devmedia.png" width="15px" heigth="15px">
    (https://www.devmedia.com.br/perfil/wanderson-105) 👨🏼‍🏫 - Cursos de desenvolvimento web (Front e Back-End) - Em andamento <br>
    <img src="https://s3.amazonaws.com/thinkific-import/220759/AaQOupKTMCZDEzzmIaSR_SO-LOGO-300.png" width="15px" heigth="15px">
-   (https://www.udemy.com/certificate/UC-4dbe736f-7653-441e-933c-0da2b421627f/) 👨🏼‍🏫 - Curso de desenvolvimento de sites e sistemas web do zero utilizando HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, POO e MySQL
+   (https://www.udemy.com/certificate/UC-4dbe736f-7653-441e-933c-0da2b421627f/) 👨🏼‍🏫 - Curso de desenvolvimento de sites e sistemas web do zero utilizando HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, POO e MySQL - Concluído
 
 
    
