@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&labelColor=05122A&logoColor=Yellow&color=050F2C)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&labelColor=05122A&logoColor=Purple&color=050F2C)
+![](https://img.shields.io/badge/AWS_Cloud-informational?style=flat&logo=google-cloud&labelColor=05122A&logoColor=Yellow&color=050F2C)
+![](https://img.shields.io/badge/Coud-Azure-informational?style=flat&logo=microsoft-azure&labelColor=05122A&logoColor=Purple&color=050F2C)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&labelColor=05122A&logoColor=Blue&color=050F2C)
 <!--![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
 <!--![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;-->
