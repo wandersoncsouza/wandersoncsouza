@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 
 ### Estou sumido? É pq estou estudando; <br>
-   <img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/estacio.png" width="15px" heigth="15px"> (https://www.estacio.br/) - Estácio de Sá - Sistemas de Informação - 2º Semestre.<br>
+   <img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/estacio.png" width="30px" heigth="30px"> (https://www.estacio.br/) - Estácio de Sá - Sistemas de Informação - 2º Semestre.<br>
    <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="15px" heigth="15px"> (https://www.jdevtreinamento.com.br/formacao-java-web-profissional/index.html) - Curso de Java WEB Full Stack - Em andamento<br>
    <img src="https://arquivo.devmedia.com.br/marketing/img/logo-devmedia.png" width="15px" heigth="15px"> (https://www.devmedia.com.br/perfil/wanderson-105) 👨🏼‍🏫 - Cursos de desenvolvimento web (Front e Back-End) - Em andamento <br>
    <img src="https://s3.amazonaws.com/thinkific-import/220759/AaQOupKTMCZDEzzmIaSR_SO-LOGO-300.png" width="15px" heigth="15px"> (https://www.udemy.com/certificate/UC-4dbe736f-7653-441e-933c-0da2b421627f/) 👨🏼‍🏫 - Curso de desenvolvimento de sites e sistemas web do zero utilizando HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, POO e MySQL - Concluído
