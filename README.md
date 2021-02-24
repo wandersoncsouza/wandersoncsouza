@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 
 ### Estou sumido? É pq estou estudando; <br>
-    <img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/estacio.png" width="15px" heigth="15px">
+   <img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/estacio.png" width="15px" heigth="15px">
    (https://www.estacio.br/) - Estácio de Sá - Sistemas de Informação - 2º Semestre.<br>
    <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="15px" heigth="15px">
    (https://www.jdevtreinamento.com.br/formacao-java-web-profissional/index.html) - Curso de Java WEB Full Stack - Em andamento<br>
