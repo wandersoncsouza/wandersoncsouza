@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 
 ### Estou sumido aqui? Claro, é pq estou estudando e muitooo; <br>
-   <img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/estacio.png" width="20px" heigth="20px"> (https://www.estacio.br/) - Estácio de Sá - Sistemas de Informação - 3º Semestre - Em andamento<br>
+   <img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/estacio.png" width="20px" heigth="20px"> (https://www.estacio.br/) - Estácio de Sá - Sistemas de Informação - 4º Semestre - Em andamento<br>
    <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="15px" heigth="15px"> (https://www.jdevtreinamento.com.br/formacao-java-web-profissional/index.html) - Curso de Java WEB Full Stack - Em andamento<br>
    <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="15px" heigth="15px"> (https://www.udemy.com/course/java-curso-completo/) - Curso de Java Completo - POO - Udemy - Em andamento<br>
    <img src="https://arquivo.devmedia.com.br/marketing/img/logo-devmedia.png" width="15px" heigth="15px"> (https://www.devmedia.com.br/perfil/wanderson-105) 👨🏼‍🏫 - Cursos de desenvolvimento web (Front e Back-End) - Em andamento <br>
